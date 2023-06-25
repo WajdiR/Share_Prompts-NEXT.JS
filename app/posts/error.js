@@ -14,3 +14,5 @@ const Error = ({ error, reset }) => {
     </div>
   );
 };
+
+export default Error;
